@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Beat Reporter",
+        "created_at": "2017-01-18 07:30:19",
+        "updated_at": "2017-01-18 07:30:19"
+    },
+    {
+        "id": 2,
+        "name": "Analyst",
+        "created_at": "2017-01-18 07:30:19",
+        "updated_at": "2017-01-18 07:30:19"
+    },
+    {
+        "id": 3,
+        "name": "Editor",
+        "created_at": "2017-01-18 07:30:19",
+        "updated_at": "2017-01-18 07:30:19"
+    },
+    {
+        "id": 4,
+        "name": "Anchor",
+        "created_at": "2017-01-18 07:30:19",
+        "updated_at": "2017-01-18 07:30:19"
+    },
+    {
+        "id": 5,
+        "name": "Blogger",
+        "created_at": "2017-01-18 07:30:19",
+        "updated_at": "2017-01-18 07:30:19"
+    },
+    {
+        "id": 6,
+        "name": "Writer",
+        "created_at": "2017-01-18 07:30:19",
+        "updated_at": "2017-01-18 07:30:19"
+    }
+]
